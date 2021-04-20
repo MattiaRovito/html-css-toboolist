@@ -71,7 +71,32 @@ header{
 }
 
 
+.container{
+    box-sizing: content-box;  
+    width: 600px;
+    padding: 40px;
+}
 
+
+
+
+
+.ul{
+    font-size: 24px;
+    color: #444851;
+}
+
+
+ul::before{
+    content: "\25E3";
+    color: black;
+    font-size: 12px;
+}
+
+li{
+    font-size: 18px;
+    color: black;
+}
 
 
 

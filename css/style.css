@@ -78,13 +78,11 @@ header{
 }
 
 
-
-
-
 .ul{
     font-size: 24px;
     color: #444851;
     list-style-type: "\2713";
+    line-height: 1.8;
     
 }
 

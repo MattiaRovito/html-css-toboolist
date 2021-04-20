@@ -84,6 +84,7 @@ header{
 .ul{
     font-size: 24px;
     color: #444851;
+    list-style-type: "\2713";
 }
 
 
@@ -96,6 +97,10 @@ ul::before{
 li{
     font-size: 18px;
     color: black;
+}
+
+#X{
+    list-style-type: "\2718";
 }
 
 
